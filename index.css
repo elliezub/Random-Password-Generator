@@ -60,6 +60,7 @@ hr {
     border-radius:10px;
     cursor: pointer;
     border: none;
+    color: var(--rich-black);
     background-color: var(--aquamarine);
     font-size: 1rem;
     font-weight: bold; 
